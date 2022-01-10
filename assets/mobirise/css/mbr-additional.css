@@ -1536,12 +1536,7 @@ a {
   padding-right: 0;
 }
 .cid-sU2LRvjkoi .item-wrapper {
-  height: 100%;
   position: relative;
-}
-.cid-sU2LRvjkoi .item-wrapper img {
-  height: 100%;
-  object-fit: cover;
 }
 .cid-sU2LRvjkoi .item-wrapper .icon-wrapper {
   pointer-events: none;
