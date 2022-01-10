@@ -1040,7 +1040,7 @@ a {
 .cid-sU8i6JbPUE {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-color: #049de7;
 }
 @media (max-width: 991px) {
   .cid-sU8i6JbPUE .image-wrapper {
@@ -1054,6 +1054,9 @@ a {
   .cid-sU8i6JbPUE .text-wrapper {
     padding: 2rem;
   }
+}
+.cid-sU8i6JbPUE .mbr-section-title {
+  color: #e43f3f;
 }
 .cid-sU871EGuqM {
   padding-top: 5rem;
@@ -1929,28 +1932,28 @@ a {
 }
 @media (min-width: 992px) {
   .cid-sU6Vn788Dz .carousel {
-    min-height: 400px;
+    min-height: 700px;
   }
   .cid-sU6Vn788Dz .carousel img {
-    max-height: 400px;
+    max-height: 700px;
     object-fit: contain;
   }
 }
 @media (max-width: 991px) and (min-width: 768px) {
   .cid-sU6Vn788Dz .carousel {
-    min-height: 260px;
+    min-height: 455px;
   }
   .cid-sU6Vn788Dz .carousel img {
-    max-height: 260px;
+    max-height: 455px;
     object-fit: contain;
   }
 }
 @media (max-width: 767px) {
   .cid-sU6Vn788Dz .carousel {
-    min-height: 220px;
+    min-height: 385px;
   }
   .cid-sU6Vn788Dz .carousel img {
-    max-height: 220px;
+    max-height: 385px;
     object-fit: contain;
   }
   .cid-sU6Vn788Dz .container .carousel-control {
